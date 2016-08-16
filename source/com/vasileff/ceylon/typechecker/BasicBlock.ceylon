@@ -1,0 +1,2 @@
+class BasicBlock({BasicBlock*} predecessors = {}) {
+}
